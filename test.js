@@ -5,5 +5,6 @@ const arr = (n) => {
       newArr.push(n);
     }
   }
-  return newArr;
+  return false;
+  ////
 };
